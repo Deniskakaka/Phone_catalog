@@ -3,4 +3,4 @@
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/documentation/)
-[![TS](https://skillicons.dev/icons?i=ts)](https://developer.mozilla.org/en-US/docs/Web/TypeScript)
+[![TS](https://skillicons.dev/icons?i=ts)]([https://developer.mozilla.org/en-US/docs/Web/TypeScript](https://www.typescriptlang.org/docs/))
